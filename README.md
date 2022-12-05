@@ -1,6 +1,6 @@
 ### Olá eu sou o Jimmys Rafael 👋
 
-- 🔭 Hoje eu trabalho com Front-End ...
+- 🔭 Hoje eu trabalho como Full Stack ...
 
 <div align="center">
   <a href="https://github.com/jimmysrafael">
