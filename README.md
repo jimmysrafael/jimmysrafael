@@ -18,7 +18,7 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor de software em Manaus e há mais de 4 anos atuo no desenvolvimento de sistemas para o **Governo de Minas Gerais**. Trabalho dos dois lados do mercado: sistemas legados **Java EE** e aplicações web modernas. Sou cofundador da **[Velox](https://veloxsoftware.com.br)**, onde criamos soluções de automação para pequenos empresários, incluindo automação de postagens em redes sociais.
+Sou desenvolvedor de software em Manaus e há mais de 4 anos atuo no desenvolvimento de sistemas para o **Governo de Minas Gerais**. Trabalho dos dois lados do mercado: sistemas legados **Java EE** e aplicações web modernas. Sou cofundador da **[Velox](https://veloxsoftware.com.br)**, onde criamos soluções de automação para pequenos/médios empresários, incluindo automação, integração de sistemas, software sob medida, entre outros.
 
 - 🏛️ Mais de 4 anos desenvolvendo para o Governo de Minas Gerais
 - 🏢 Cofundador da [Velox](https://veloxsoftware.com.br) e dono de uma software house focada em automação
