@@ -18,8 +18,9 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor de software em Manaus e trabalho dos dois lados do mercado: sistemas legados **Java EE** e aplicações web modernas. Sou cofundador da **[Velox](https://veloxsoftware.com.br)**, onde criamos soluções de automação para pequenos empresários, incluindo automação de postagens em redes sociais.
+Sou desenvolvedor de software em Manaus e há mais de 4 anos atuo no desenvolvimento de sistemas para o **Governo de Minas Gerais**. Trabalho dos dois lados do mercado: sistemas legados **Java EE** e aplicações web modernas. Sou cofundador da **[Velox](https://veloxsoftware.com.br)**, onde criamos soluções de automação para pequenos empresários, incluindo automação de postagens em redes sociais.
 
+- 🏛️ Mais de 4 anos desenvolvendo para o Governo de Minas Gerais
 - 🏢 Cofundador da [Velox](https://veloxsoftware.com.br) e dono de uma software house focada em automação
 - ⚙️ Construo APIs e sistemas web com Java/Spring Boot e Node.js/TypeScript
 - 🎨 Interfaces com Angular e React, backend com Supabase
@@ -39,16 +40,7 @@ Sou desenvolvedor de software em Manaus e trabalho dos dois lados do mercado: si
 
 **Dados, cloud e ferramentas**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,oracle,docker,git,github,vercel&perline=8" alt="Dados e ferramentas" />
-
-</div>
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jimmysrafael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmysrafael&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,docker,git,github,vercel&perline=8" alt="Dados e ferramentas" />
 
 </div>
 
